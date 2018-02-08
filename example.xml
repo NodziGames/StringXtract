@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<bg>
+	<string id="spins" strValue="Завъртания"/>
+    <string id="auto" strValue="Авт."/>
+	<string id="play" strValue="изпълн."/>
+	<string id="totalBet" strValue="Общ залог"/>
+	<string id="untilStop" strValue="До спиране"/>
+	<string id="coinsBet" strValue="Заложени монети"/>
+    <string id="holdToAutoplay" strValue="Зад. за автом. игра"/>
+    <string id="custom" strValue="По избор"/>
+    <string id="winLimitMessage" strValue="Достигнат е лимитът за победа за автоматична игра"/>
+    <string id="lossLimitMessage" strValue="Достигнат е лимитът за загуба за автоматична игра"/>
+    <string id="jackpotWonMessage" strValue="Автоматичната игра е спряна. Джакпотът е спечелен"/>
+</strings>
+
+<strings>
+	<cs>
+	<string id="spins" strValue="Roztočení"/>
+    <string id="auto" strValue="Automatická"/>
+	<string id="play" strValue="hra"/>
+	<string id="totalBet" strValue="Sázka celkem"/>
+	<string id="untilStop" strValue="Až do zastavení"/>
+	<string id="coinsBet" strValue="Vsazených mincí"/>
+    <string id="holdToAutoplay" strValue="Podrž pro autom. hru"/>
+    <string id="custom" strValue="Vlastní"/>
+    <string id="winLimitMessage" strValue="Byl dosažen limit výher v automatické hře"/>
+    <string id="lossLimitMessage" strValue="Byl dosažen limit proher v automatické hře"/>
+    <string id="jackpotWonMessage" strValue="Automatická hra byla zastavena. Výhra jackpotu"/>
+</strings>
+
+<strings>
+	<da>
+	<string id="spins" strValue="Spin"/>
+    <string id="auto" strValue="Auto-"/>
+	<string id="play" strValue="Spil"/>
+	<string id="totalBet" strValue="Samlet bet"/>
+	<string id="untilStop" strValue="Indtil stop"/>
+	<string id="coinsBet" strValue="Satsede mønter"/>
+    <string id="holdToAutoplay" strValue="Hold nede for autospil"/>
+    <string id="custom" strValue="Tilpasset"/>
+    <string id="winLimitMessage" strValue="Du har nået gevinstgrænsen for autospil"/>
+    <string id="lossLimitMessage" strValue="Du har nået tabsgrænsen for autospil"/>
+    <string id="jackpotWonMessage" strValue="Autospil stoppet. Jackpot vundet"/>
+</strings>
+
+<strings>
+	<de>
+	<string id="spins" strValue="Spiele"/>
+    <string id="auto" strValue="Autom."/>
+	<string id="play" strValue="Spielen"/>
+	<string id="totalBet" strValue="Gesamteinsatz"/>
+	<string id="untilStop" strValue="Bis zum Anhalten"/>
+	<string id="coinsBet" strValue="Gesetzte Münzen"/>
+    <string id="holdToAutoplay" strValue="Halten: Auto. Spiel."/>
+    <string id="custom" strValue="Benutzerdef."/>
+    <string id="winLimitMessage" strValue="Gewinnlimit für autom. Spielen erreicht."/>
+    <string id="lossLimitMessage" strValue="Verlustlimit für autom. Spielen erreicht."/>
+    <string id="jackpotWonMessage" strValue="Autom. Spielen angehalten. Jackpot gewonnen."/>
+</strings>
+
+<strings>
+	<el>
+	<string id="spins" strValue="Γυρίσματα"/>
+    <string id="auto" strValue="Αυτόματο"/>
+	<string id="play" strValue="παιχνίδι"/>
+	<string id="totalBet" strValue="Συνολικό ποντάρισμα"/>
+	<string id="untilStop" strValue="Έως το στοπ"/>
+	<string id="coinsBet" strValue="Κέρματα πονταρ."/>
+    <string id="holdToAutoplay" strValue="Πάτημα για αυτ.παιχ."/>
+    <string id="custom" strValue="Προσαρμοσμ."/>
+    <string id="winLimitMessage" strValue="Φτάσατε το όριο κέρδους του αυτόματου παιχνιδιού"/>
+    <string id="lossLimitMessage" strValue="Φτάσατε το όριο απωλειών του αυτόματου παιχνιδιού"/>
+    <string id="jackpotWonMessage" strValue="Το αυτόματο παιχνίδι σταμάτησε. Κερδίσατε το τζακ-ποτ"/>
+</strings>
+
+<strings>
+	<es>
+	<string id="spins" strValue="Tiradas"/>
+    <string id="auto" strValue="Juego"/>
+	<string id="play" strValue="automático"/>
+	<string id="totalBet" strValue="Apuesta total"/>
+	<string id="untilStop" strValue="Hasta parar"/>
+	<string id="coinsBet" strValue="Monedas apostadas"/>
+    <string id="holdToAutoplay" strValue="Mantener - autojuego"/>
+    <string id="custom" strValue="Personalizada"/>
+    <string id="winLimitMessage" strValue="Alcanzado límite de ganancia del juego automático"/>
+    <string id="lossLimitMessage" strValue="Alcanzado límite de pérdida del juego automático"/>
+    <string id="jackpotWonMessage" strValue="Juego automático detenido. Bote conseguido."/>
+</strings>
+
+<strings>
+	<fi>
+	<string id="spins" strValue="Kierrokset"/>
+    <string id="auto" strValue="Autom."/>
+	<string id="play" strValue="peli"/>
+	<string id="totalBet" strValue="Koko panos"/>
+	<string id="untilStop" strValue="Pysäytykseen asti"/>
+	<string id="coinsBet" strValue="Kolikkopanos"/>
+    <string id="holdToAutoplay" strValue="Valitse Autoplay pitämällä"/>
+    <string id="custom" strValue="Muokattu"/>
+    <string id="winLimitMessage" strValue="AutoPlay-voittoraja saavutettu"/>
+    <string id="lossLimitMessage" strValue="AutoPlay-tappioraja saavutettu"/>
+    <string id="jackpotWonMessage" strValue="AutoPlay pysäytetty. Jättipotti voitettu"/>
+</strings>
+
+<strings>
+	<fr>
+	<string id="spins" strValue="Tours"/>
+    <string id="auto" strValue="Auto"/>
+	<string id="play" strValue="play"/>
+	<string id="totalBet" strValue="Mise totale"/>
+	<string id="untilStop" strValue="Jusqu'à l'arrêt"/>
+	<string id="coinsBet" strValue="Pièces misées"/>
+    <string id="holdToAutoplay" strValue="Tenir pour Autoplay"/>
+    <string id="custom" strValue="Personnalisé"/>
+    <string id="winLimitMessage" strValue="Limite de gains AutoPlay atteinte"/>
+    <string id="lossLimitMessage" strValue="Limite de perte AutoPlay atteinte"/>
+    <string id="jackpotWonMessage" strValue="AutoPlay s'est arrêté. Jackpot remporté"/>
+</strings>
+
+<strings>
+	<hi>
+	<string id="spins" strValue="स्पिन्स"/>
+    <string id="auto" strValue="ऑटो"/>
+	<string id="play" strValue="प्ले"/>
+	<string id="totalBet" strValue="कुल शर्त"/>
+	<string id="untilStop" strValue="रुकने तक"/>
+	<string id="coinsBet" strValue="सिक्कों की शर्त "/>
+    <string id="holdToAutoplay" strValue="ऑटोप्ले के लिए पकडें"/>
+    <string id="custom" strValue="कस्टम"/>
+    <string id="winLimitMessage" strValue="ऑटोप्ले जीतने की सीमा समाप्त।"/>
+    <string id="lossLimitMessage" strValue="ऑटोप्ले हारने की सीमा समाप्त।"/>
+    <string id="jackpotWonMessage" strValue="ऑटोप्ले रुक गया। जैकपोट जीता गया।"/>
+</strings>
+
+<strings>
+	<hr>
+	<string id="spins" strValue="Okretanja"/>
+    <string id="auto" strValue="Automatska"/>
+	<string id="play" strValue="igra"/>
+	<string id="totalBet" strValue="Ukupni ulog"/>
+	<string id="untilStop" strValue="Do zaustavljanja"/>
+	<string id="coinsBet" strValue="Ulog u kovanicama"/>
+    <string id="holdToAutoplay" strValue="Drži za automatsku igru"/>
+    <string id="custom" strValue="Prilagođeno"/>
+    <string id="winLimitMessage" strValue="Dostignuto je ograničenje dobitka automatske igre"/>
+    <string id="lossLimitMessage" strValue="Dostignuto je ograničenje gubitka automatske igre"/>
+    <string id="jackpotWonMessage" strValue="Automtaska igra je zaustavljena. Osvojen jackpot"/>
+</strings>
+
+<strings>
+	<hu>
+	<string id="spins" strValue="Pörgetések"/>
+    <string id="auto" strValue="Automatikus"/>
+	<string id="play" strValue="játék"/>
+	<string id="totalBet" strValue="Teljes tét"/>
+	<string id="untilStop" strValue="Leállásig"/>
+	<string id="coinsBet" strValue="Érme tét"/>
+    <string id="holdToAutoplay" strValue="Tart. le aut. j.-hoz"/>
+    <string id="custom" strValue="Egyéni"/>
+    <string id="winLimitMessage" strValue="Az automatikus játék nyerési limitje elérve"/>
+    <string id="lossLimitMessage" strValue="Az automatikus játék veszteséglimitje elérve"/>
+    <string id="jackpotWonMessage" strValue="Az automatikus játék véget ért. stopped. Megnyerte a jackpotot"/>
+</strings>
+
+<strings>
+	<id>
+	<string id="spins" strValue="Putaran"/>
+    <string id="auto" strValue="Main"/>
+	<string id="play" strValue="Otomatis"/>
+	<string id="totalBet" strValue="Total Taruhan"/>
+	<string id="untilStop" strValue="Hingga Berhenti"/>
+	<string id="coinsBet" strValue="Taruhan Koin"/>
+    <string id="holdToAutoplay" strValue="Tahan Untuk Main Otomatis"/>
+    <string id="custom" strValue="Sesuaikan"/>
+    <string id="winLimitMessage" strValue="Batas kemenangan Main Otomatis tercapai"/>
+    <string id="lossLimitMessage" strValue="Batas kekalahan Main Otomatis tercapai"/>
+    <string id="jackpotWonMessage" strValue="Main Otomatis dihentikan. Jackpot dimenangi"/>
+</strings>
+
+<strings>
+	<it>
+	<string id="spins" strValue="Giocate"/>
+    <string id="auto" strValue="Auto"/>
+	<string id="play" strValue="Play"/>
+	<string id="totalBet" strValue="Puntata totale"/>
+	<string id="untilStop" strValue="Fino alla fine"/>
+	<string id="coinsBet" strValue="Monete puntate"/>
+    <string id="holdToAutoplay" strValue="Tieni premuto per l'AutoPlay"/>
+    <string id="custom" strValue="PPersonaliz."/>
+    <string id="winLimitMessage" strValue="Limite di vincita AutoPlay raggiunto"/>
+    <string id="lossLimitMessage" strValue="Limite di perdita AutoPlay raggiunto"/>
+    <string id="jackpotWonMessage" strValue="AutoPlay interrotto. Jackpot vinto"/>
+</strings>
+
+<strings>
+	<ja>
+	<string id="spins" strValue="スピン"/>
+    <string id="auto" strValue="自動"/>
+	<string id="play" strValue="プレイ"/>
+	<string id="totalBet" strValue="ベット合計"/>
+	<string id="untilStop" strValue="停止するまで"/>
+	<string id="coinsBet" strValue="ベットしたコイン "/>
+    <string id="holdToAutoplay" strValue="長押しして自動プレイ"/>
+    <string id="custom" strValue="カスタム"/>
+    <string id="winLimitMessage" strValue="自動プレイのウィン リミットに達しました"/>
+    <string id="lossLimitMessage" strValue="自動プレイのロス リミットに達しました"/>
+    <string id="jackpotWonMessage" strValue="自動プレイ停止。ジャックポットを獲得しました"/>
+</strings>
+
+<strings>
+	<ko>
+	<string id="spins" strValue="스핀"/>
+    <string id="auto" strValue="자동"/>
+	<string id="play" strValue="플레이"/>
+	<string id="totalBet" strValue="총 베팅액"/>
+	<string id="untilStop" strValue="중지될 때까지"/>
+	<string id="coinsBet" strValue="베팅 코인 수"/>
+    <string id="holdToAutoplay" strValue="길게 눌러서 자동 플레이"/>
+    <string id="custom" strValue="사용자 지정"/>
+    <string id="winLimitMessage" strValue="자동플레이 당첨금 한도에 도달함"/>
+    <string id="lossLimitMessage" strValue="자동플레이 손실금 한도에 도달함"/>
+    <string id="jackpotWonMessage" strValue="자동플레이가 중단되었습니다. 잭팟이 터졌습니다."/>
+</strings>
+
+<strings>
+	<nl>
+	<string id="spins" strValue="Draaien"/>
+    <string id="auto" strValue="Auto"/>
+	<string id="play" strValue="Play"/>
+	<string id="totalBet" strValue="Totale inzet"/>
+	<string id="untilStop" strValue="Tot stop"/>
+	<string id="coinsBet" strValue="Ingezette munten"/>
+    <string id="holdToAutoplay" strValue="Vasthouden voor AutoPlay"/>
+    <string id="custom" strValue="Aangepast"/>
+    <string id="winLimitMessage" strValue="Scorelimiet voor AutoPlay bereikt"/>
+    <string id="lossLimitMessage" strValue="Verlieslimiet voor AutoPlay bereikt."/>
+    <string id="jackpotWonMessage" strValue="AutoPlay gestopt. Jackpot gewonnen."/>
+</strings>
+
+<strings>
+	<no>
+	<string id="spins" strValue="Spinn"/>
+    <string id="auto" strValue="Auto"/>
+	<string id="play" strValue="spill"/>
+	<string id="totalBet" strValue="Totalinnsats"/>
+	<string id="untilStop" strValue="Til stopp"/>
+	<string id="coinsBet" strValue="Mynter satset"/>
+    <string id="holdToAutoplay" strValue="Hold for autospill"/>
+    <string id="custom" strValue="Egendefinert"/>
+    <string id="winLimitMessage" strValue="Gevinstgrense for autospill nådd"/>
+    <string id="lossLimitMessage" strValue="Tapsgrense for autospill nådd"/>
+    <string id="jackpotWonMessage" strValue="Autospill stoppet. Jackpot vunnet"/>
+</strings>
+
+<strings>
+	<pl>
+	<string id="spins" strValue="Obroty"/>
+    <string id="auto" strValue="Gra"/>
+	<string id="play" strValue="automatyczna"/>
+	<string id="totalBet" strValue="Stawka całkowita"/>
+	<string id="untilStop" strValue="Do zatrzymania"/>
+	<string id="coinsBet" strValue="Postawione monety"/>
+    <string id="holdToAutoplay" strValue="Prz., by wł. autogrę"/>
+    <string id="custom" strValue="Własne"/>
+    <string id="winLimitMessage" strValue="Osiągnięto limit wygranych gry automatycznej"/>
+    <string id="lossLimitMessage" strValue="Osiągnięto limit strat gry automatycznej"/>
+    <string id="jackpotWonMessage" strValue="Gra automatyczna zatrzymana. Zdobyto jackpota"/>
+</strings>
+
+<strings>
+	<pt-br>
+	<string id="spins" strValue="Giros"/>
+    <string id="auto" strValue="Jogo"/>
+	<string id="play" strValue="Automático"/>
+	<string id="totalBet" strValue="Aposta Total"/>
+	<string id="untilStop" strValue="Até parar"/>
+	<string id="coinsBet" strValue="Moedas Apostadas"/>
+    <string id="holdToAutoplay" strValue="Pressione p/ Jogo Aut."/>
+    <string id="custom" strValue="Personalizar"/>
+    <string id="winLimitMessage" strValue="Limite de prêmio do Jogo Automático alcançado"/>
+    <string id="lossLimitMessage" strValue="Limite de perda do Jogo Automático alcançado"/>
+    <string id="jackpotWonMessage" strValue="Jogo Automático encerrado. Ganhou o Prêmio Acumulado"/>
+</strings>
+
+<strings>
+	<pt>
+	<string id="spins" strValue="Voltas"/>
+    <string id="auto" strValue="Jogo"/>
+	<string id="play" strValue="auto"/>
+	<string id="totalBet" strValue="Aposta total"/>
+	<string id="untilStop" strValue="Até parar"/>
+	<string id="coinsBet" strValue="Moedas apostadas"/>
+    <string id="holdToAutoplay" strValue="Manter p/ Jogo Auto"/>
+    <string id="custom" strValue="Personalizar"/>
+    <string id="winLimitMessage" strValue="Foi atingido o limite de ganhos com Jogo Auto"/>
+    <string id="lossLimitMessage" strValue="Foi atingido o limite de perdas com Jogo Auto"/>
+    <string id="jackpotWonMessage" strValue="Jogo Auto interrompido. Jackpot ganho"/>
+</strings>
+
+<strings>
+	<ru>
+	<string id="spins" strValue="Спины"/>
+    <string id="auto" strValue="Автоматическая"/>
+	<string id="play" strValue="игра"/>
+	<string id="totalBet" strValue="Общая ставка"/>
+	<string id="untilStop" strValue="До остановки"/>
+	<string id="coinsBet" strValue="Ставка монетами"/>
+    <string id="holdToAutoplay" strValue="Удерж. для автоигры"/>
+    <string id="custom" strValue="Выборочная"/>
+    <string id="winLimitMessage" strValue="Достигнуто ограничение выигрыша в автоматической игре"/>
+    <string id="lossLimitMessage" strValue="Достигнуто ограничение проигрыша в автоматической игре"/>
+    <string id="jackpotWonMessage" strValue="Автоматическая игра остановлена. Выигран джекпот"/>
+</strings>
+
+<strings>
+	<sk>
+	<string id="spins" strValue="Roztočenia"/>
+    <string id="auto" strValue="Automatická"/>
+	<string id="play" strValue="hra"/>
+	<string id="totalBet" strValue="Celková stávka"/>
+	<string id="untilStop" strValue="Do zastavenia"/>
+	<string id="coinsBet" strValue="Stavené mince"/>
+    <string id="holdToAutoplay" strValue="Podržaním autom. hra"/>
+    <string id="custom" strValue="Vlastné"/>
+    <string id="winLimitMessage" strValue="Bol dosiahnutý limit výhier automatickej hry."/>
+    <string id="lossLimitMessage" strValue="Bol dosiahnutý limit prehier automatickej hry."/>
+    <string id="jackpotWonMessage" strValue="Automatická hra bola zastavená. Bol vyhratý jackpot."/>
+</strings>
+
+<strings>
+	<sl>
+	<string id="spins" strValue="Vrtljaji"/>
+    <string id="auto" strValue="Samodejno"/>
+	<string id="play" strValue="igranje"/>
+	<string id="totalBet" strValue="Skupna stava"/>
+	<string id="untilStop" strValue="Do zaustavitve"/>
+	<string id="coinsBet" strValue="Stava kovancev"/>
+    <string id="holdToAutoplay" strValue="Pridrž. za sam. igr."/>
+    <string id="custom" strValue="Po meri"/>
+    <string id="winLimitMessage" strValue="Dosežena je bila omejitev dobitkov za samodejno igranje"/>
+    <string id="lossLimitMessage" strValue="Dosežena je bila omejitev izgube za samodejno igranje"/>
+    <string id="jackpotWonMessage" strValue="Samodejno igranje zaustavljeno. Osvojen je bil jackpot."/>
+</strings>
+
+<strings>
+	<sv>
+	<string id="spins" strValue="Spel"/>
+    <string id="auto" strValue="Auto"/>
+	<string id="play" strValue="spel"/>
+	<string id="totalBet" strValue="Total insats"/>
+	<string id="untilStop" strValue="Till stopp"/>
+	<string id="coinsBet" strValue="Satsade mynt"/>
+    <string id="holdToAutoplay" strValue="Håll in för autospel"/>
+    <string id="custom" strValue="Anpassat"/>
+    <string id="winLimitMessage" strValue="Vinstgräns för autospel uppnådd."/>
+    <string id="lossLimitMessage" strValue="Förlustgräns för autospel uppnådd."/>
+    <string id="jackpotWonMessage" strValue="Autospel stoppat. Du vann jackpotten!"/>
+</strings>
+
+<strings>
+	<th>
+	<string id="spins" strValue="หมุน"/>
+    <string id="auto" strValue="เล่นอัต"/>
+	<string id="play" strValue="โนมัติ"/>
+	<string id="totalBet" strValue="เดิมพันทั้งหมด"/>
+	<string id="untilStop" strValue="จนกว่าจะหยุด"/>
+	<string id="coinsBet" strValue="เดิมพันเหรียญ"/>
+    <string id="holdToAutoplay" strValue="แตะค้างเพื่อให้เล่นอัตโนมัติ"/>
+    <string id="custom" strValue="กำหนดเอง"/>
+    <string id="winLimitMessage" strValue="ถึงขีดจำกัดการเล่นชนะของโหมดเล่นอัตโนมัติแล้ว"/>
+    <string id="lossLimitMessage" strValue="ถึงขีดจำกัดการเล่นเสียของโหมดเล่นอัตโนมัติแล้ว"/>
+    <string id="jackpotWonMessage" strValue="หยุดโหมดเล่นอัตโนมัติ ชนะรางวัลแจ็คพอต"/>
+</strings>
+
+<strings>
+	<tr>
+	<string id="spins" strValue="Döndürmeler"/>
+    <string id="auto" strValue="Otomatik"/>
+	<string id="play" strValue="Oyun"/>
+	<string id="totalBet" strValue="Toplam Bahis"/>
+	<string id="untilStop" strValue="Durana Kadar"/>
+	<string id="coinsBet" strValue="Bahis Oynanan Jetonlar"/>
+    <string id="holdToAutoplay" strValue="Oto Oyun Düğmesi"/>
+    <string id="custom" strValue="Özel"/>
+    <string id="winLimitMessage" strValue="Otomatik oyun kazanç limiti doldu"/>
+    <string id="lossLimitMessage" strValue="Otomatik oyun kaybetme limiti doldu"/>
+    <string id="jackpotWonMessage" strValue="Otomatik oyun durduruldu. Jackpot kazandı"/>
+</strings>
+
+<strings>
+	<vi>
+	<string id="spins" strValue="Vòng quay"/>
+    <string id="auto" strValue="Tự động"/>
+	<string id="play" strValue="chơi"/>
+	<string id="totalBet" strValue="Tổng cược"/>
+	<string id="untilStop" strValue="Cho đến khi dừng"/>
+	<string id="coinsBet" strValue="Cược xèng"/>
+    <string id="holdToAutoplay" strValue="Chờ Tự chơi"/>
+    <string id="custom" strValue="TÙY CHỈNH"/>
+    <string id="winLimitMessage" strValue="Đã đạt giới hạn tiền thắng tự chơi"/>
+    <string id="lossLimitMessage" strValue="Đã đạt giới hạn tiền mất tự chơi"/>
+    <string id="jackpotWonMessage" strValue="Đã ngừng tự chơi. Đã thắng Jackpot"/>
+</strings>
+
+<strings>
+	<zh-cn>
+	<string id="spins" strValue="旋转"/>
+    <string id="auto" strValue="自动"/>
+	<string id="play" strValue="游戏"/>
+	<string id="totalBet" strValue="总赌注"/>
+	<string id="untilStop" strValue="直至停止"/>
+	<string id="coinsBet" strValue="下注硬币数"/>
+    <string id="holdToAutoplay" strValue="按住以自动游戏"/>
+    <string id="custom" strValue="自定义"/>
+    <string id="winLimitMessage" strValue="达到了自动游戏的赢赏限额"/>
+    <string id="lossLimitMessage" strValue="达到了自动游戏的损失限额"/>
+    <string id="jackpotWonMessage" strValue="自动游戏已停止。赢得了累积奖金"/>
+</strings>
+
+<strings>
+	<zh-tw>
+	<string id="spins" strValue="旋轉次數"/>
+    <string id="auto" strValue="自動"/>
+	<string id="play" strValue="遊戲"/>
+	<string id="totalBet" strValue="總賭注"/>
+	<string id="untilStop" strValue="直到停止"/>
+	<string id="coinsBet" strValue="代幣押注"/>
+    <string id="holdToAutoplay" strValue="按住以自動遊戲"/>
+    <string id="custom" strValue="自訂"/>
+    <string id="winLimitMessage" strValue="已達自動遊戲贏獎上限"/>
+    <string id="lossLimitMessage" strValue="已達自動遊戲損失上限"/>
+    <string id="jackpotWonMessage" strValue="自動遊戲已停止。贏得累積獎金"/>
+</strings>

@@ -1,0 +1,51 @@
+StringXtract is a tool used to rip strings from XML files with ease, and have them handed to you as a table.
+
+
+How To Set Up StringXtract:
+
+
+ENSURE YOU HAVE PERMISSION TO INSTALL A WEB HOSTING TOOL!
+
+1. Install a web hosting tool, in our case we'll be using MAMP as provided in the current directory (PS. You can untick MAMP Pro in the setup as it is not necessary to use this tool).
+
+2. Note the directory to which you installed it. This should be (C:\MAMP) by default.
+
+3. Launch MAMP, then go to preferences.
+
+4. Go to the Ports tab located at the top, then change the Apache Port to any number that suits you. 80, and 8080 are normally taken, so make it unique.
+
+5. Proceed to the Web Server tab, and note the Document Root. Click Open listed beneath the Document Root.
+
+6. Copy the StringXtract folder to your Document Root folder.
+
+7. Click OK in the Preferences window, then click the "Start Servers" button and wait a few seconds.
+
+8. Open your browser, and enter the following address in the URL bar: localhost:yourportnumber/StringXtract/index.php
+   Remember to replace "yourportnumber" with the number configured in step 4. So for example, localhost:1234/StringXtract/index.php
+
+
+How To Use StringXtract:
+
+1. Click "Choose File", and select the example.XML file provided.
+
+2. Click Upload File to parse the file. All strings should be listed below each other, ready to copy and paste onto an excel sheet.
+
+3. Once finished, click the back button to upload another file.
+
+4. If you run into any issues, hit the cleanup button as listed on the home page.
+
+
+How To Host The Tool For Someone Else:
+
+1. After following the previous steps, open up the start menu.
+
+2. Type in CMD, and launch command prompt.
+
+3. Type in ipconfig
+
+4. Look for the IPv4 Address, for example: 10.1.18.141
+
+5. The web address that others can use should be the above address, plus your port number you set up in step 4, and the location of the tool.
+	For example:   10.1.18.141:1234/StringXtract/index.php
+
+6. Ensure that MAMP is running, and pop the address into your browser to test if the link works.
